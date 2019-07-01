@@ -1,0 +1,11 @@
+.board__container {
+  width: 100%;
+  height: 100vh;
+  background: #fff;
+}
+
+.board__block {
+  width: 80%;
+  height: 5em;
+  background: blue;
+}
